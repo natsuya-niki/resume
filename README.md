@@ -26,12 +26,12 @@
 ## スキル詳細
 
 - 言語・フレームワーク
-  - PHP：PHP7系、Laravel5系、CakePHP3系、FuelPHP
+  - PHP：PHP7系、Laravel5系、CakePHP3系、FuelPHP、EC-CUBE2〜3系
   - Python：3系
   - JavaScript：Nuxt.js2系
-- フロントエンド：HTML5、CSS3、Veu.js2系、JQuery1系・2系
+- フロントエンド：HTML5、CSS3、Veu.js2系、JQuery1〜2系
 - モバイルアプリ：Swift2系、Android Java（Android 9）
-- ミドルウェア：MySQL、Apache、Nginx、Redis
+- ミドルウェア：MySQL、MariaDB、Apache、Nginx、Redis
 - クラウド
   - AWS：EC2、RDS、ElastiCache、Lambda、S3、SQS
   - GCP：BigQuery、Cloud Composer
