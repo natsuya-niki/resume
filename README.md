@@ -7,7 +7,6 @@
 | 活動名 | ナツヤ（natsuya） |
 | 生年月日 | 1985年3月20日 |
 | GitHub | [@natsuya-niki](https://github.com/natsuya-niki) |
-| Twitter | [@natsuyaNiki](https://twitter.com/natsuyaNiki) |
 | Qiita | [@natsuya-niki](https://qiita.com/natsuya-niki) |
 
 
@@ -28,7 +27,8 @@
 - 言語・フレームワーク
   - PHP：PHP7系、Laravel5系、CakePHP3系、FuelPHP、EC-CUBE2〜3系
   - Python：3系
-  - JavaScript：Nuxt.js2系
+  - Ruby on Rails 4系, 6系
+  - JavaScript：Nuxt.js2系, React 15系
 - フロントエンド：HTML5、CSS3、Veu.js2系、JQuery1〜2系
 - モバイルアプリ：Swift2系、Android Java（Android 9）
 - ミドルウェア：MySQL、MariaDB、Apache、Nginx、Redis
@@ -52,7 +52,7 @@
     - 特定化学物質健康診断
     - 電離放射線健康診断
   - ストレスチェック
-
+- Business Travel Management
 
 ## 開発手法の経験・レベル
 
