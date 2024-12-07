@@ -33,9 +33,8 @@
 - モバイルアプリ：Swift2系、Android Java（Android 9）
 - ミドルウェア：MySQL、MariaDB、Apache、Nginx、Redis
 - クラウド
-  - AWS：EC2、RDS、ElastiCache、Lambda、S3、SQS
-  - GCP：BigQuery、Cloud Composer
-
+  - AWS：ECS、EC2、RDS、ElastiCache、Lambda、S3、SQS
+  - GCP：BigQuery
 
 ## ドメイン知識（業務知識）
 
@@ -86,15 +85,11 @@ E：ムリ
 ----|----|----
 | スクラム | ◯ | なんちゃってスクラムだった |
 | エクストリーム・プログラミング（XP） | × |
-| ユーザー機能駆動開発（FDD） | × |
 
 
-## エンジニアリングで心がけていること
+## キーワード
 
-- 心理的安全性を向上した開発チーム作り
-- DRY、KISS、YAGNI
-- 迷ったら金になるコードを書け
-
+明文化。設計はシンプルに。質とスピード。テストは文化。
 
 ## その他情報
 
